@@ -32,6 +32,13 @@
     <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
 
         <style>
+            #hell{
+                position:fixed;
+                bottom: 10px;
+                left: 10px;
+            }
+            
+
             th, td, p, input {
                 font:14px Verdana;
             }
@@ -55,6 +62,9 @@
         
         <input type="button" allign="right" onclick="CreateTableFromJSON()" value="The Updated Values Are:" />
         <p id="showData"></p>
+        
+        
+             
     </body>
     
     <script>
@@ -128,5 +138,10 @@
             divContainer.innerHTML = "";
             divContainer.appendChild(table);
         }
+
+
     </script>
+    <div id="hell">
+        <a href="template.html" target="_self">Submit</a>
+    </div>
     </html>
