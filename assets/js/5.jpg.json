@@ -1,0 +1,328 @@
+{
+	"description": "",
+	"tags": [],
+	"size": {
+		"height": 799,
+		"width": 1280
+	},
+	"objects": [{
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[325, 409],
+				[352, 451]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[387, 393],
+				[405, 427]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[414, 404],
+				[433, 434]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[921, 457],
+				[937, 490]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[967, 402],
+				[981, 429]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[944, 419],
+				[971, 444]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[469, 377],
+				[484, 409]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[664, 356],
+				[680, 394]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[249, 505],
+				[278, 536]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[636, 316],
+				[653, 344]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[511, 264],
+				[520, 294]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[515, 269],
+				[537, 291]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[899, 437],
+				[906, 472]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[448, 703],
+				[484, 743]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[356, 760],
+				[396, 784]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[172, 672],
+				[221, 703]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[512, 535],
+				[683, 620]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[829, 620],
+				[988, 748]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[586, 388],
+				[714, 496]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[219, 189],
+				[289, 225]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[843, 246],
+				[889, 303]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[1022, 324],
+				[1084, 377]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[122, 218],
+				[169, 257]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[64, 150],
+				[105, 181]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[210, 138],
+				[247, 166]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[96, 186],
+				[158, 212]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[137, 132],
+				[175, 161]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[101, 97],
+				[125, 122]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[1116, 696],
+				[1239, 792]
+			],
+			"interior": []
+		}
+	}]
+}

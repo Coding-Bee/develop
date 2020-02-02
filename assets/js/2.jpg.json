@@ -1,0 +1,64 @@
+{
+	"description": "",
+	"tags": [],
+	"size": {
+		"height": 1740,
+		"width": 1280
+	},
+	"objects": [{
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[452, 582],
+				[864, 1519]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[1019, 630],
+				[1116, 967]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[901, 658],
+				[1040, 1091]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[1122, 618],
+				[1256, 1194]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[734, 609],
+				[849, 1031]
+			],
+			"interior": []
+		}
+	}]
+}

@@ -1,0 +1,163 @@
+{
+	"description": "",
+	"tags": [],
+	"size": {
+		"height": 853,
+		"width": 1280
+	},
+	"objects": [{
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[591, 608],
+				[634, 687]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[429, 612],
+				[460, 676]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[265, 608],
+				[298, 670]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[1153, 605],
+				[1175, 688]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[695, 614],
+				[717, 682]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[734, 603],
+				[757, 687]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[555, 608],
+				[579, 672]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[1249, 602],
+				[1267, 679]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[402, 609],
+				[416, 672]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[343, 599],
+				[365, 667]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[7, 620],
+				[268, 748]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[793, 632],
+				[1087, 725]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[937, 612],
+				[1131, 690]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Car",
+		"points": {
+			"exterior": [
+				[827, 596],
+				[881, 639]
+			],
+			"interior": []
+		}
+	}]
+}

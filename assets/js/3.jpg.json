@@ -1,0 +1,130 @@
+{
+	"description": "",
+	"tags": [],
+	"size": {
+		"height": 720,
+		"width": 1280
+	},
+	"objects": [{
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[173, 203],
+				[292, 626]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[492, 272],
+				[600, 664]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[641, 256],
+				[776, 604]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[609, 256],
+				[670, 531]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[1015, 285],
+				[1136, 661]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[1188, 267],
+				[1274, 597]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[776, 270],
+				[892, 608]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[917, 300],
+				[1011, 580]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[307, 279],
+				[373, 576]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[877, 283],
+				[929, 430]
+			],
+			"interior": []
+		}
+	}, {
+		"description": "",
+		"tags": [],
+		"classTitle": "Person",
+		"points": {
+			"exterior": [
+				[1193, 290],
+				[1216, 349]
+			],
+			"interior": []
+		}
+	}]
+}
