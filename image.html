@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Upload form</title>
+        <link rel="stylesheet" href="./assets/css/styles.css">
+        
+	</head>
+    <style>
+        #canvas {
+            width:2000px;
+            height:2000px;
+            border: 10px solid transparent;
+        }
+        .rectangle {
+            border: 1px solid #FF0000;
+            position: absolute;
+        }
+        </style>
+	  
+	<body>
+		<h1>Image file feeder</h1>
+		<h2>Or use the file uploader</h2>
+		<input type="file" id="uploaded-file" />
+
+		<h2>Our canvas tag:</h2>
+		<canvas id="our-canvas" class="image-container"></canvas>
+		<div id="canvas"></div>
+		<script src="./assets/img/scripts.js"></script>
+        
+        
+    <script src="./assets/js/myscripts2.js"></script>
+    <script>
+        initDraw(document.getElementById('canvas'));
+    </script>
+		
+	</body>
+</html>
